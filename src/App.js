@@ -15,7 +15,7 @@ function App() {
     <div className="site">
       <p>Digital clock</p>
       <div className="main">
-        <h2>Time {time}</h2>
+        <h2>{time}</h2>
       </div>
     </div>
   );
